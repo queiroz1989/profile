@@ -3,7 +3,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  background-color: rgba(212, 211, 211, 0.856);
+  background-image: url("images/background.jpg");
 }
 div {
   color: rgb(85, 85, 212);
